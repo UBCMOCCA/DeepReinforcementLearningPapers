@@ -1,13 +1,10 @@
-# DeepReinforcementLearningPapers
 
-=====================
-Key Papers in Deep RL
-=====================
+
+# Good Reviewed Papers in Deep RL
+
 
 What follows is a list of papers in deep RL that are worth reading. This is *far* from comprehensive, but should provide a useful starting point for someone looking to do research in the field.
 
-.. contents:: Table of Contents
-    :depth: 2
 
 
 1. Model-Free RL
@@ -17,9 +14,9 @@ a. Deep Q-Learning
 ------------------
 
 
-.. [#] `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013. **Algorithm: DQN.**
+  1. [Playing Atari with Deep Reinforcement Learning]( <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>)`_, Mnih et al, 2013. **Algorithm: DQN.**
 
-.. [#] `Deep Recurrent Q-Learning for Partially Observable MDPs <https://arxiv.org/abs/1507.06527>`_, Hausknecht and Stone, 2015. **Algorithm: Deep Recurrent Q-Learning.**
+  1. `Deep Recurrent Q-Learning for Partially Observable MDPs <https://arxiv.org/abs/1507.06527>`_, Hausknecht and Stone, 2015. **Algorithm: Deep Recurrent Q-Learning.**
 
 .. [#] `Dueling Network Architectures for Deep Reinforcement Learning <https://arxiv.org/abs/1511.06581>`_, Wang et al, 2015. **Algorithm: Dueling DQN.**
 
